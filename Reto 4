@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Reproductor de audio y video</title>
+</head>
+
+<body>
+
+<h1>Aprende HTML en 15 Minutos 📙</h1>
+
+<h2>Reproductor de video</h1>
+<video width="640" height="360" controls>
+	<source src="Aprende HTML en 15 Minutos 📙.mp4" type="video/mp4">
+</video>
+
+<h2>Reproductor de audio </h1>
+<audio controls>
+	<source src="" type="audio/ogg">
+		<source src="Aprende HTML en 15 Minutos 📙.mp3" type="audio/mpeg"> Su navegador no soporta el elemento audio.
+</audio>
+</body>
+
+</html>
