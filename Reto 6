@@ -1,0 +1,30 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PAGINA PRINCIPAL</title>
+</head>
+
+<body>
+	<h1>Pagina Central</h1>
+	<p>En esta pagina encontraras todos los links relacionados con:</p>
+	<ul>
+		<li>
+			<a href="file:///Users/carolstefaniapuentesmotta/Desktop/CLIENTE-SERVIDOR.HTML">Caracteristicas cliente servidor</a>
+		</li>
+		<li>
+		<a href="file:///Users/carolstefaniapuentesmotta/Desktop/lista%20de%20servidores.htm">Listado de los diferentes tipos de servidores web y servidores de aplicacion</a>	
+		</li>
+		<li>
+			<a href="file:///Users/carolstefaniapuentesmotta/Desktop/tutoriales.html">TUTORIALES BASICOS DE HTML; CSS y JavaScript</a>
+		</li>
+		<li>
+			<a href="file:///Users/carolstefaniapuentesmotta/Desktop/reproductor%20de%20audio%20y%20video.html">Reproductor de audio y video </a>
+		</li>
+		<li>
+			<a href="file:///Users/carolstefaniapuentesmotta/Desktop/calculadora.html">Simulacion de calculadora</a>
+		</li>
+	</ul>
+	</a>
+</body>
+</html>
