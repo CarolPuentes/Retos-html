@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Calculadora</title>
+</head>
+
+<body>
+	<h1>Simulacion de calculadora </h1>
+	<table> <!-- marca el inicio de la tabla -->
+		<!-- <caption> 00000000000000</caption>  --> <!-- titulo de la tabla -->
+
+		<thead>  <!-- encabezado -->
+			<tr>
+				<th colspan="4"; bgcolor="dcdcdc">  000000000000000 </th>
+			</tr> 
+
+			<tbody>  <!-- contenido de la tabla -->
+			    <tr> <!-- contenido de cada fila -->
+					<td bgcolor="FDEDF0"> AC</td> <!-- contenido de una celda  -->
+					<td bgcolor="FDEDF0"> +/- </td>
+			        <td bgcolor="FDEDF0"> %</td>
+			        <th bgcolor="FDBED9"> ÷</th>
+				</tr>
+				<tr>
+					<td bgcolor="FDEDF0"> 7</td> 
+					<td bgcolor="FDEDF0"> 8 </td>
+			        <td bgcolor="FDEDF0"> 9</td>
+			        <th bgcolor="FDBED9">x</th>
+				</tr>
+				<tr>
+					<td bgcolor="FDEDF0"> 4 </td> 
+					<td bgcolor="FDEDF0"> 5 </td>
+			        <td bgcolor="FDEDF0"> 6 </td>
+			        <td bgcolor="FDBED9"> - </td>
+				</tr>
+				<tr>
+					<td bgcolor="FDEDF0" > 1 </td>
+					<td bgcolor="FDEDF0" > 2 </td>
+			        <td bgcolor="FDEDF0" > 3 </td>
+			        <td bgcolor="FDBED9" > + </td>
+				</tr>
+				<tr>
+					<td colspan="2"; bgcolor="FDEDF0"> 0 </td>
+					<td bgcolor="FDEDF0" > , </td>
+					<td bgcolor="FDBED9" > = </td>
+				</tr>
+
+			</tbody>
+		</thead>
+	</table>
+</body>
+
+</html>
