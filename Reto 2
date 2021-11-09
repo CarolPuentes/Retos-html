@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title> LISTADO DE SERVIDORES </title>
+</head>
+
+<body> <!-- bgcolor="FF6699"-->
+<h1 >  SERVIDORES WEB Y SERVIDORES DE APLICACION</h1>
+<h2>¿Que es un servidor web?</h2>
+<p>Un servidor web es un software que se utiliza para servir archivos a sitios web en Internet, el cual es responsable de garantizar que la comunicación entre el servidor y el cliente es segura y sin fallos.<br>
+El software funciona como un enlace entre dos máquinas (el servidor físico y el dispositivo de un usuario). Cuando un usuario realiza una petición, el servidor web coge los archivos del servidor físico y los entrega al usuario. De modo que los servidores web tienen que servir diferentes páginas a diferentes usuarios al mismo tiempo.</p>
+
+<h2>Servidores web</h2> 
+<ol>
+	<li>Servidores de windows</li>
+	<ul>
+		<li>Apache</li>
+		<li>WAMP</li>
+		<li>XAMPP</li>
+		<li>WampServer</li> 
+		<li>EasyPHP</li>
+		<li>Server2Go</li>
+	</ul>
+	<li>Servidores de MacOs</li>
+	<ul>
+		<li>Apache</li>
+		<li>XAMPP</li>
+		<li>MAMP</li>
+		<li>Server2Go</li>
+	</ul>
+	<li>Servidores de Linux</li>
+	<ul>
+	    <li>Apache</li>
+	    <li>XAMPP</li>
+	    <li>Server2Go</li>
+	    <li>LAMP</li>	
+	    <li>Nginx</li>
+	</ul>
+</ol>
+
+<h2>¿Que es un servidor de aplicacion?</h2>
+<p>Los servidores de aplicaciones son programas de servidor en una red distribuida que proporciona el entorno de ejecución para un programa de aplicación. Más específicamente, el servidor de aplicaciones es el componente de tiempo de ejecución principal en todas las configuraciones y donde una aplicación se ejecuta realmente. El servidor de aplicaciones colabora con el servidor web para ofrecer una respuesta dinámica y personalizada a una solicitud de cliente.</p>
+<ol>
+	<li>Servidores de IBM</li>
+	<ul>
+		<li>IBM WebSphere</li>
+		<li>IBM Domino</li>
+		<li>Integrated Web</li>
+	</ul>
+	<li>Servidores de Microsoft</li>
+	<ul>
+		<li>ASP e IIS</li>
+	</ul>
+	<li>Servidor de GNU</li>
+	<ul>
+	    Perl
+	</ul>
+	<li>Servidores de Oracle</li>
+	<ul>
+		<li>Sun-Netscape IPlanet</li>
+		<li>Oracle IAS</li>
+	</ul>
+	<li>Programcion en C</li>
+	<ul>
+		AOLserver
+	</ul>
+	<li>Programcion en Java</li>
+	<ul>
+		<li>Enterprise JavaBeans</li>
+		<li>Oracle WebLogic</li>
+		<li>borland application server</li>
+		<li>HP Bluestone</li>
+	</ul>
+</ol>
+
+</body>
+
+</html>
